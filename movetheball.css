@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(64, 28, 39);
+}
+#ball{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid aqua;
+    border-radius: 100%;
+    top:45vh;
+    left:45vh;
+    position: relative;
+}
+#container{
+    
+    height: 100vh;
+}
